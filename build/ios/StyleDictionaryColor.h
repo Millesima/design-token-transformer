@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 17 Jan 2024 13:25:38 GMT
+// Generated on Fri, 01 Mar 2024 14:56:48 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -108,11 +108,13 @@ ColorContentStrokePrimaryHover,
 ColorContentStrokePrimaryActive,
 ColorContentStrokePrimaryDisable,
 ColorContentTextSecondaryEnable,
+ColorContentBackgroundSecondaryEnable,
 ColorGeneralText01,
 ColorGeneralText02,
 ColorGeneralDivider,
 ColorGeneralText03,
 ColorGeneralPromo01,
+ColorGeneralInformation01,
 ColorGeneralSuccess01,
 ColorGeneralCaution01,
 ColorGeneralError01,
@@ -189,6 +191,7 @@ ColorNavigationStrokePrimaryActive,
 ColorNavigationBackgroundPrimaryDisable,
 ColorNavigationTextPrimaryDisable,
 ColorNavigationStrokePrimaryDisable,
+ColorNavigationTextPrimaryInverseEnable,
 ColorMessagingBackgroundPrimaryEnable,
 ColorMessagingTextPrimaryEnable,
 ColorMessagingStrokePrimaryEnable,
@@ -203,7 +206,8 @@ ColorMessagingTextSuccessEnable,
 ColorMessagingStrokeSuccessEnable,
 ColorMessagingBackgroundErrorEnable,
 ColorMessagingTextErrorEnable,
-ColorMessagingStrokeErrorEnable
+ColorMessagingStrokeErrorEnable,
+ColorMessagingTextSecondaryEnable
 };
 
 @interface StyleDictionaryColor : NSObject

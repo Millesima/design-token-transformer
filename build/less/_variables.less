@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 17 Jan 2024 13:25:38 GMT
+// Generated on Fri, 01 Mar 2024 14:56:48 GMT
 
 @color-core-grey10: rgb(246, 245, 243);
 @color-core-grey20: rgb(245, 245, 245);
@@ -59,7 +59,7 @@
 @color-action-stroke-primary-hover: rgba(255, 255, 255, 0);
 @color-action-stroke-primary-active: rgba(255, 255, 255, 0);
 @color-action-stroke-primary-disable: rgb(255, 255, 255);
-@color-action-background-secondary-enable: rgba(255, 255, 255, 0);
+@color-action-background-secondary-enable: rgb(255, 255, 255);
 @color-action-background-secondary-hover: rgb(246, 245, 243);
 @color-action-background-secondary-active: rgb(246, 245, 243);
 @color-action-background-secondary-disable: rgb(239, 239, 239);
@@ -79,7 +79,7 @@
 @color-action-text-tertiary-hover: rgb(23, 23, 23);
 @color-action-text-tertiary-active: rgb(159, 159, 159);
 @color-action-text-tertiary-disable: rgb(189, 189, 189);
-@color-action-stroke-tertiary-enable: rgb(255, 255, 255);
+@color-action-stroke-tertiary-enable: rgba(255, 255, 255, 0);
 @color-action-stroke-tertiary-hover: rgb(255, 255, 255);
 @color-action-stroke-tertiary-active: rgb(255, 255, 255);
 @color-action-stroke-tertiary-disable: rgba(255, 255, 255, 0);
@@ -92,7 +92,7 @@
 @color-content-text-primary-active: rgb(23, 23, 23);
 @color-content-text-primary-disable: rgb(189, 189, 189);
 @color-content-background-primary-enable: rgb(255, 255, 255);
-@color-content-background-primary-hover: rgb(255, 255, 255);
+@color-content-background-primary-hover: rgb(246, 245, 243);
 @color-content-background-primary-active: rgb(255, 255, 255);
 @color-content-background-primary-disable: rgba(255, 255, 255, 0);
 @color-content-stroke-primary-enable: rgb(219, 219, 219);
@@ -100,11 +100,13 @@
 @color-content-stroke-primary-active: rgb(23, 23, 23);
 @color-content-stroke-primary-disable: rgb(219, 219, 219);
 @color-content-text-secondary-enable: rgb(159, 159, 159);
+@color-content-background-secondary-enable: rgb(246, 245, 243);
 @color-general-text01: rgb(23, 23, 23);
 @color-general-text02: rgb(159, 159, 159);
 @color-general-divider: rgb(239, 239, 239);
 @color-general-text03: rgb(255, 255, 255);
 @color-general-promo01: rgb(212, 75, 65);
+@color-general-information01: rgb(80, 146, 244);
 @color-general-success01: rgb(62, 149, 112);
 @color-general-caution01: rgb(244, 150, 80);
 @color-general-error01: rgb(244, 80, 80);
@@ -181,7 +183,8 @@
 @color-navigation-background-primary-disable: rgb(255, 255, 255);
 @color-navigation-text-primary-disable: rgb(189, 189, 189);
 @color-navigation-stroke-primary-disable: rgb(217, 217, 217);
-@color-messaging-background-primary-enable: rgb(246, 245, 243);
+@color-navigation-text-primary-inverse-enable: rgb(255, 255, 255);
+@color-messaging-background-primary-enable: rgb(23, 23, 23);
 @color-messaging-text-primary-enable: rgb(23, 23, 23);
 @color-messaging-stroke-primary-enable: rgba(255, 255, 255, 0);
 @color-messaging-background-information-enable: rgb(223, 240, 254);
@@ -196,6 +199,7 @@
 @color-messaging-background-error-enable: rgb(254, 232, 231);
 @color-messaging-text-error-enable: rgb(244, 80, 80);
 @color-messaging-stroke-error-enable: rgb(244, 80, 80);
+@color-messaging-text-secondary-enable: rgb(255, 255, 255);
 @typography-display-font-size: 36px;
 @typography-display-text-decoration: none;
 @typography-display-font-family: Montserrat;
@@ -306,17 +310,6 @@
 @typography-paragraph-xlarge-paragraph-indent: 0;
 @typography-paragraph-xlarge-paragraph-spacing: 0;
 @typography-paragraph-xlarge-text-case: none;
-@typography-paragraph-medium-font-size: 14px;
-@typography-paragraph-medium-text-decoration: none;
-@typography-paragraph-medium-font-family: Montserrat;
-@typography-paragraph-medium-font-weight: 400;
-@typography-paragraph-medium-font-style: normal;
-@typography-paragraph-medium-font-stretch: normal;
-@typography-paragraph-medium-letter-spacing: 0.16px;
-@typography-paragraph-medium-line-height: 21px;
-@typography-paragraph-medium-paragraph-indent: 0;
-@typography-paragraph-medium-paragraph-spacing: 0;
-@typography-paragraph-medium-text-case: none;
 @typography-paragraph-large-font-size: 16px;
 @typography-paragraph-large-text-decoration: none;
 @typography-paragraph-large-font-family: Montserrat;
@@ -328,17 +321,28 @@
 @typography-paragraph-large-paragraph-indent: 0;
 @typography-paragraph-large-paragraph-spacing: 0;
 @typography-paragraph-large-text-case: none;
-@typography-paragraph-small-font-size: 12px;
-@typography-paragraph-small-text-decoration: none;
-@typography-paragraph-small-font-family: Montserrat;
-@typography-paragraph-small-font-weight: 400;
-@typography-paragraph-small-font-style: normal;
-@typography-paragraph-small-font-stretch: normal;
-@typography-paragraph-small-letter-spacing: 0.16px;
-@typography-paragraph-small-line-height: 18px;
-@typography-paragraph-small-paragraph-indent: 0;
-@typography-paragraph-small-paragraph-spacing: 0;
-@typography-paragraph-small-text-case: none;
+@typography-paragrpahe-large-underline-font-size: 16px;
+@typography-paragrpahe-large-underline-text-decoration: underline;
+@typography-paragrpahe-large-underline-font-family: Montserrat;
+@typography-paragrpahe-large-underline-font-weight: 400;
+@typography-paragrpahe-large-underline-font-style: normal;
+@typography-paragrpahe-large-underline-font-stretch: normal;
+@typography-paragrpahe-large-underline-letter-spacing: 0.16px;
+@typography-paragrpahe-large-underline-line-height: 24px;
+@typography-paragrpahe-large-underline-paragraph-indent: 0;
+@typography-paragrpahe-large-underline-paragraph-spacing: 0;
+@typography-paragrpahe-large-underline-text-case: none;
+@typography-paragraph-medium-font-size: 14px;
+@typography-paragraph-medium-text-decoration: none;
+@typography-paragraph-medium-font-family: Montserrat;
+@typography-paragraph-medium-font-weight: 400;
+@typography-paragraph-medium-font-style: normal;
+@typography-paragraph-medium-font-stretch: normal;
+@typography-paragraph-medium-letter-spacing: 0.16px;
+@typography-paragraph-medium-line-height: 21px;
+@typography-paragraph-medium-paragraph-indent: 0;
+@typography-paragraph-medium-paragraph-spacing: 0;
+@typography-paragraph-medium-text-case: none;
 @typography-paragraph-medium-underline-font-size: 14px;
 @typography-paragraph-medium-underline-text-decoration: underline;
 @typography-paragraph-medium-underline-font-family: Montserrat;
@@ -350,6 +354,28 @@
 @typography-paragraph-medium-underline-paragraph-indent: 0;
 @typography-paragraph-medium-underline-paragraph-spacing: 0;
 @typography-paragraph-medium-underline-text-case: none;
+@typography-paragraph-small-font-size: 12px;
+@typography-paragraph-small-text-decoration: none;
+@typography-paragraph-small-font-family: Montserrat;
+@typography-paragraph-small-font-weight: 400;
+@typography-paragraph-small-font-style: normal;
+@typography-paragraph-small-font-stretch: normal;
+@typography-paragraph-small-letter-spacing: 0.16px;
+@typography-paragraph-small-line-height: 18px;
+@typography-paragraph-small-paragraph-indent: 0;
+@typography-paragraph-small-paragraph-spacing: 0;
+@typography-paragraph-small-text-case: none;
+@typography-paragraph-small-underline-font-size: 12px;
+@typography-paragraph-small-underline-text-decoration: underline;
+@typography-paragraph-small-underline-font-family: Montserrat;
+@typography-paragraph-small-underline-font-weight: 400;
+@typography-paragraph-small-underline-font-style: normal;
+@typography-paragraph-small-underline-font-stretch: normal;
+@typography-paragraph-small-underline-letter-spacing: 0.16px;
+@typography-paragraph-small-underline-line-height: 18px;
+@typography-paragraph-small-underline-paragraph-indent: 0;
+@typography-paragraph-small-underline-paragraph-spacing: 0;
+@typography-paragraph-small-underline-text-case: none;
 @typography-paragraph-xsmall-font-size: 10px;
 @typography-paragraph-xsmall-text-decoration: none;
 @typography-paragraph-xsmall-font-family: Montserrat;
