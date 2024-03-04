@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 17 Jan 2024 13:25:38 GMT
+// Generated on Fri, 01 Mar 2024 14:56:48 GMT
 
 
 import UIKit
@@ -23,6 +23,8 @@ public enum StyleDictionarySize {
     public static let paragraphMediumFontWeight = 400
     public static let paragraphMediumUnderlineFontWeight = 400
     public static let paragraphSmallFontWeight = 400
+    public static let paragraphSmallUnderlineFontWeight = 400
     public static let paragraphXlargeFontWeight = 400
     public static let paragraphXsmallFontWeight = 400
+    public static let paragrpaheLargeUnderlineFontWeight = 400
 }
