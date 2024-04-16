@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Apr 2024 12:29:24 GMT
+// Generated on Tue, 16 Apr 2024 13:32:06 GMT
 
 
 import UIKit
@@ -118,7 +118,7 @@ public enum StyleDictionaryColor {
     public static let formBackgroundPrimaryHover = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let formBackgroundPrimarySelect = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let formBackgroundSecondaryActive = UIColor(red: 0.859, green: 0.859, blue: 0.859, alpha: 1)
-    public static let formBackgroundSecondaryDisable = UIColor(red: 0.961, green: 0.961, blue: 0.961, alpha: 1)
+    public static let formBackgroundSecondaryDisable = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let formBackgroundSecondaryEnable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let formBackgroundSecondaryHover = UIColor(red: 0.965, green: 0.961, blue: 0.953, alpha: 1)
     public static let formStrokePrimaryDisable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 0)
@@ -127,7 +127,7 @@ public enum StyleDictionaryColor {
     public static let formStrokePrimaryHover = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let formStrokePrimarySelect = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let formStrokeSecondaryActive = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
-    public static let formStrokeSecondaryDisable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 0)
+    public static let formStrokeSecondaryDisable = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let formStrokeSecondaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let formStrokeSecondaryHover = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let formTextPrimaryDisable = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
