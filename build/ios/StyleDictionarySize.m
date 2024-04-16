@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 01 Mar 2024 14:56:48 GMT
+// Generated on Tue, 16 Apr 2024 12:29:24 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -15,11 +15,13 @@ float const TypographyHeadingXlargeFontWeight = 600;
 float const TypographyHeadingLargeFontWeight = 600;
 float const TypographyHeadingMediumFontWeight = 600;
 float const TypographyHeadingSmallFontWeight = 600;
-float const TypographyLabelXlargeFontWeight = 500;
+float const TypographyHeadingXsmallFontWeight = 600;
 float const TypographyLabelLargeFontWeight = 500;
+float const TypographyLabelLargeUnderlineFontWeight = 500;
 float const TypographyLabelMediumFontWeight = 500;
+float const TypographyLabelMediumUnderlineFontWeight = 500;
 float const TypographyLabelSmallFontWeight = 500;
-float const TypographyParagraphXlargeFontWeight = 400;
+float const TypographyLabelSmallUnderlineFontWeight = 500;
 float const TypographyParagraphLargeFontWeight = 400;
 float const TypographyParagrpaheLargeUnderlineFontWeight = 400;
 float const TypographyParagraphMediumFontWeight = 400;

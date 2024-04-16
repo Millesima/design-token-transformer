@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 01 Mar 2024 14:56:48 GMT
+// Generated on Tue, 16 Apr 2024 12:29:24 GMT
 
 
 import UIKit
@@ -118,7 +118,7 @@ public enum StyleDictionaryColor {
     public static let formBackgroundPrimaryHover = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let formBackgroundPrimarySelect = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let formBackgroundSecondaryActive = UIColor(red: 0.859, green: 0.859, blue: 0.859, alpha: 1)
-    public static let formBackgroundSecondaryDisable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let formBackgroundSecondaryDisable = UIColor(red: 0.961, green: 0.961, blue: 0.961, alpha: 1)
     public static let formBackgroundSecondaryEnable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let formBackgroundSecondaryHover = UIColor(red: 0.965, green: 0.961, blue: 0.953, alpha: 1)
     public static let formStrokePrimaryDisable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 0)
@@ -129,7 +129,7 @@ public enum StyleDictionaryColor {
     public static let formStrokeSecondaryActive = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let formStrokeSecondaryDisable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 0)
     public static let formStrokeSecondaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
-    public static let formStrokeSecondaryHover = UIColor(red: 0.388, green: 0.388, blue: 0.388, alpha: 1)
+    public static let formStrokeSecondaryHover = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let formTextPrimaryDisable = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let formTextPrimaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let formTextPrimaryError = UIColor(red: 0.957, green: 0.314, blue: 0.314, alpha: 1)
@@ -160,8 +160,8 @@ public enum StyleDictionaryColor {
     public static let indicatorBackgroundPrimaryEnable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let indicatorBackgroundPrimaryHover = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let indicatorStrokePrimaryDisable = UIColor(red: 0.937, green: 0.937, blue: 0.937, alpha: 1)
-    public static let indicatorStrokePrimaryEnable = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
-    public static let indicatorStrokePrimaryHover = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
+    public static let indicatorStrokePrimaryEnable = UIColor(red: 0.859, green: 0.859, blue: 0.859, alpha: 1)
+    public static let indicatorStrokePrimaryHover = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let indicatorStrokePrimaryPress = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let indicatorTextPirmaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let indicatorTextPrimaryDisable = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)

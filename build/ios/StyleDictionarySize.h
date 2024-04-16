@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 01 Mar 2024 14:56:48 GMT
+// Generated on Tue, 16 Apr 2024 12:29:24 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -14,11 +14,13 @@ extern float const TypographyHeadingXlargeFontWeight;
 extern float const TypographyHeadingLargeFontWeight;
 extern float const TypographyHeadingMediumFontWeight;
 extern float const TypographyHeadingSmallFontWeight;
-extern float const TypographyLabelXlargeFontWeight;
+extern float const TypographyHeadingXsmallFontWeight;
 extern float const TypographyLabelLargeFontWeight;
+extern float const TypographyLabelLargeUnderlineFontWeight;
 extern float const TypographyLabelMediumFontWeight;
+extern float const TypographyLabelMediumUnderlineFontWeight;
 extern float const TypographyLabelSmallFontWeight;
-extern float const TypographyParagraphXlargeFontWeight;
+extern float const TypographyLabelSmallUnderlineFontWeight;
 extern float const TypographyParagraphLargeFontWeight;
 extern float const TypographyParagrpaheLargeUnderlineFontWeight;
 extern float const TypographyParagraphMediumFontWeight;
