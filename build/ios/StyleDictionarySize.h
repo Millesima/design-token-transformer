@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Apr 2024 13:32:06 GMT
+// Generated on Tue, 18 Jun 2024 14:37:36 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -22,7 +22,7 @@ extern float const TypographyLabelMediumUnderlineFontWeight;
 extern float const TypographyLabelSmallFontWeight;
 extern float const TypographyLabelSmallUnderlineFontWeight;
 extern float const TypographyParagraphLargeFontWeight;
-extern float const TypographyParagrpaheLargeUnderlineFontWeight;
+extern float const TypographyParagraphLargeUnderlineFontWeight;
 extern float const TypographyParagraphMediumFontWeight;
 extern float const TypographyParagraphMediumUnderlineFontWeight;
 extern float const TypographyParagraphSmallFontWeight;

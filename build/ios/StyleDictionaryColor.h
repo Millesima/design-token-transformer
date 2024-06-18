@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Apr 2024 13:32:06 GMT
+// Generated on Tue, 18 Jun 2024 14:37:36 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -124,6 +124,9 @@ ColorGeneralBrandUi03,
 ColorGeneralBrandUi04,
 ColorGeneralBrandUi05,
 ColorGeneralBrandUi06,
+ColorGeneralPrimeur,
+ColorGeneralPrearrivals,
+ColorGeneralAvalaible,
 ColorElevationSurfacePrimary,
 ColorElevationSurfaceSecondary,
 ColorElevationSurfaceTertiary,
@@ -158,6 +161,7 @@ ColorFormStrokeSecondaryHover,
 ColorFormStrokeSecondaryActive,
 ColorFormStrokeSecondaryDisable,
 ColorFormTextPrimaryError,
+ColorFormStrokePrimarySuccessEnable,
 ColorModaleBackgroundPrimaryEnable,
 ColorModaleTextPrimaryEnable,
 ColorModaleStrokePrimaryEnable,
@@ -179,6 +183,8 @@ ColorIndicatorBackgroundPrimaryDisable,
 ColorIndicatorStrokePrimaryDisable,
 ColorIndicatorTextPrimaryDisable,
 ColorIndicatorTextSecondaryEnable,
+ColorIndicatorBackgroundSecondaryEnable,
+ColorIndicatorStrokeSecondaryEnable,
 ColorNavigationBackgroundPrimaryEnable,
 ColorNavigationTextPrimaryEnable,
 ColorNavigationStrokePrimaryEnable,

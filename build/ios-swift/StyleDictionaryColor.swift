@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Apr 2024 13:32:06 GMT
+// Generated on Tue, 18 Jun 2024 14:37:36 GMT
 
 
 import UIKit
@@ -126,6 +126,7 @@ public enum StyleDictionaryColor {
     public static let formStrokePrimaryErrorEnable = UIColor(red: 0.957, green: 0.314, blue: 0.314, alpha: 1)
     public static let formStrokePrimaryHover = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let formStrokePrimarySelect = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
+    public static let formStrokePrimarySuccessEnable = UIColor(red: 0.243, green: 0.584, blue: 0.439, alpha: 1)
     public static let formStrokeSecondaryActive = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let formStrokeSecondaryDisable = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let formStrokeSecondaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
@@ -140,6 +141,7 @@ public enum StyleDictionaryColor {
     public static let formTextSecondaryDisable = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let formTextSecondaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let formTextSecondaryHover = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
+    public static let generalAvalaible = UIColor(red: 0.243, green: 0.584, blue: 0.439, alpha: 1)
     public static let generalBrandUi01 = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let generalBrandUi02 = UIColor(red: 0.937, green: 0.937, blue: 0.937, alpha: 1)
     public static let generalBrandUi03 = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
@@ -150,6 +152,8 @@ public enum StyleDictionaryColor {
     public static let generalDivider = UIColor(red: 0.937, green: 0.937, blue: 0.937, alpha: 1)
     public static let generalError01 = UIColor(red: 0.957, green: 0.314, blue: 0.314, alpha: 1)
     public static let generalInformation01 = UIColor(red: 0.314, green: 0.573, blue: 0.957, alpha: 1)
+    public static let generalPrearrivals = UIColor(red: 0.910, green: 0.847, blue: 0.298, alpha: 1)
+    public static let generalPrimeur = UIColor(red: 0.549, green: 0.263, blue: 0.141, alpha: 1)
     public static let generalPromo01 = UIColor(red: 0.831, green: 0.294, blue: 0.255, alpha: 1)
     public static let generalSuccess01 = UIColor(red: 0.243, green: 0.584, blue: 0.439, alpha: 1)
     public static let generalText01 = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
@@ -159,15 +163,17 @@ public enum StyleDictionaryColor {
     public static let indicatorBackgroundPrimaryDisable = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let indicatorBackgroundPrimaryEnable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let indicatorBackgroundPrimaryHover = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let indicatorBackgroundSecondaryEnable = UIColor(red: 0.965, green: 0.961, blue: 0.953, alpha: 1)
     public static let indicatorStrokePrimaryDisable = UIColor(red: 0.937, green: 0.937, blue: 0.937, alpha: 1)
     public static let indicatorStrokePrimaryEnable = UIColor(red: 0.859, green: 0.859, blue: 0.859, alpha: 1)
     public static let indicatorStrokePrimaryHover = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let indicatorStrokePrimaryPress = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
+    public static let indicatorStrokeSecondaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let indicatorTextPirmaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let indicatorTextPrimaryDisable = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let indicatorTextPrimaryHover = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let indicatorTextPrimaryPress = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
-    public static let indicatorTextSecondaryEnable = UIColor(red: 0.624, green: 0.624, blue: 0.624, alpha: 1)
+    public static let indicatorTextSecondaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let messagingBackgroundCautionEnable = UIColor(red: 0.996, green: 0.957, blue: 0.875, alpha: 1)
     public static let messagingBackgroundErrorEnable = UIColor(red: 0.996, green: 0.910, blue: 0.906, alpha: 1)
     public static let messagingBackgroundInformationEnable = UIColor(red: 0.875, green: 0.941, blue: 0.996, alpha: 1)
