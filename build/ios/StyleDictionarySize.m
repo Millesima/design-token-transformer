@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 16 Apr 2024 13:32:06 GMT
+// Generated on Tue, 18 Jun 2024 14:37:36 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -23,7 +23,7 @@ float const TypographyLabelMediumUnderlineFontWeight = 500;
 float const TypographyLabelSmallFontWeight = 500;
 float const TypographyLabelSmallUnderlineFontWeight = 500;
 float const TypographyParagraphLargeFontWeight = 400;
-float const TypographyParagrpaheLargeUnderlineFontWeight = 400;
+float const TypographyParagraphLargeUnderlineFontWeight = 400;
 float const TypographyParagraphMediumFontWeight = 400;
 float const TypographyParagraphMediumUnderlineFontWeight = 400;
 float const TypographyParagraphSmallFontWeight = 400;
