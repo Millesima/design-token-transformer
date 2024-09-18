@@ -3,13 +3,15 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Jun 2024 14:37:36 GMT
+// Generated on Wed, 18 Sep 2024 13:02:37 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
-extern float const TypographyDisplayFontWeight;
+extern float const TypographyDisplayMediumFontWeight;
+extern float const TypographyDisplayLargeFontWeight;
+extern float const TypographyDisplayLargeFontWeight;
 extern float const TypographyHeadingXlargeFontWeight;
 extern float const TypographyHeadingLargeFontWeight;
 extern float const TypographyHeadingMediumFontWeight;
