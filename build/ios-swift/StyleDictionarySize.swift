@@ -4,13 +4,15 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Jun 2024 14:37:36 GMT
+// Generated on Wed, 18 Sep 2024 13:02:38 GMT
 
 
 import UIKit
 
 public enum StyleDictionarySize {
-    public static let displayFontWeight = 600
+    public static let displayLargeFontWeight = 600
+    public static let displayLargeFontWeight = 600
+    public static let displayMediumFontWeight = 600
     public static let headingLargeFontWeight = 600
     public static let headingMediumFontWeight = 600
     public static let headingSmallFontWeight = 600
