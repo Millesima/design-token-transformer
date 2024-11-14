@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 18 Sep 2024 13:02:37 GMT
+// Generated on Thu, 14 Nov 2024 09:10:12 GMT
 
 $color-core-grey10: rgb(246, 245, 243);
 $color-core-grey20: rgb(245, 245, 245);
@@ -118,7 +118,7 @@ $color-general-text01: rgb(23, 23, 23);
 $color-general-text02: rgb(129, 129, 129);
 $color-general-divider: rgb(219, 219, 219);
 $color-general-text03: rgb(255, 255, 255);
-$color-general-promo01: rgb(212, 75, 65);
+$color-general-promo01: rgb(162, 44, 44);
 $color-general-information01: rgb(80, 146, 244);
 $color-general-success01: rgb(62, 149, 112);
 $color-general-caution01: rgb(244, 150, 80);
@@ -157,8 +157,7 @@ $color-form-text-primary-enable: rgb(23, 23, 23);
 $color-form-text-primary-hover: rgb(23, 23, 23);
 $color-form-text-primary-select: rgb(23, 23, 23);
 $color-form-text-primary-disable: rgb(189, 189, 189);
-$color-form-background-secondary-enable: rgb(219, 219, 219);
-$color-form-background-secondary-hover: rgb(246, 245, 243);
+$color-form-background-secondary-enable: rgb(246, 245, 243);
 $color-form-background-secondary-active: rgb(23, 23, 23);
 $color-form-background-secondary-disable: rgb(239, 239, 239);
 $color-form-text-secondary-enable: rgb(23, 23, 23);
@@ -176,6 +175,7 @@ $color-form-text-primary-inverse-select: rgb(255, 255, 255);
 $color-form-background-primary-inverse-enable: rgb(23, 23, 23);
 $color-form-background-primary-inverse-select: rgb(23, 23, 23);
 $color-form-text-primary-placeholder-disable: rgb(189, 189, 189);
+$color-form-background-tertiary-enable: rgb(219, 219, 219);
 $color-modale-background-primary-enable: rgb(255, 255, 255);
 $color-modale-text-primary-enable: rgb(23, 23, 23);
 $color-modale-stroke-primary-enable: rgb(239, 239, 239);
@@ -190,9 +190,9 @@ $color-indicator-background-primary-enable: rgb(255, 255, 255);
 $color-indicator-stroke-primary-hover: rgb(189, 189, 189);
 $color-indicator-text-primary-hover: rgb(23, 23, 23);
 $color-indicator-background-primary-hover: rgb(255, 255, 255);
-$color-indicator-background-pirmary-press: rgb(255, 255, 255);
-$color-indicator-text-primary-press: rgb(189, 189, 189);
-$color-indicator-stroke-primary-press: rgb(23, 23, 23);
+$color-indicator-background-pirmary-active: rgb(255, 255, 255);
+$color-indicator-text-primary-active: rgb(189, 189, 189);
+$color-indicator-stroke-primary-active: rgb(23, 23, 23);
 $color-indicator-background-primary-disable: rgb(189, 189, 189);
 $color-indicator-stroke-primary-disable: rgb(239, 239, 239);
 $color-indicator-text-primary-disable: rgb(189, 189, 189);
@@ -200,6 +200,7 @@ $color-indicator-text-secondary-enable: rgb(23, 23, 23);
 $color-indicator-background-secondary-enable: rgb(246, 245, 243);
 $color-indicator-stroke-secondary-enable: rgb(23, 23, 23);
 $color-indicator-text-primary-inverse-enable: rgb(255, 255, 255);
+$color-indicator-background-primary-inverse-enable: rgb(23, 23, 23);
 $color-navigation-background-primary-enable: rgb(255, 255, 255);
 $color-navigation-text-primary-enable: rgb(23, 23, 23);
 $color-navigation-stroke-primary-enable: rgb(217, 217, 217);
