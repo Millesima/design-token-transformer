@@ -3,30 +3,39 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 14 Nov 2024 09:10:12 GMT
+// Generated on Wed, 07 May 2025 07:12:15 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
-extern float const TypographyDisplayMediumFontWeight;
-extern float const TypographyDisplayLargeFontWeight;
-extern float const TypographyDisplayLargeFontWeight;
-extern float const TypographyHeadingXlargeFontWeight;
-extern float const TypographyHeadingLargeFontWeight;
-extern float const TypographyHeadingMediumFontWeight;
-extern float const TypographyHeadingSmallFontWeight;
-extern float const TypographyHeadingXsmallFontWeight;
-extern float const TypographyLabelLargeFontWeight;
-extern float const TypographyLabelLargeUnderlineFontWeight;
-extern float const TypographyLabelMediumFontWeight;
-extern float const TypographyLabelMediumUnderlineFontWeight;
-extern float const TypographyLabelSmallFontWeight;
-extern float const TypographyLabelSmallUnderlineFontWeight;
-extern float const TypographyParagraphLargeFontWeight;
-extern float const TypographyParagraphLargeUnderlineFontWeight;
-extern float const TypographyParagraphMediumFontWeight;
-extern float const TypographyParagraphMediumUnderlineFontWeight;
-extern float const TypographyParagraphSmallFontWeight;
-extern float const TypographyParagraphSmallUnderlineFontWeight;
-extern float const TypographyParagraphXsmallFontWeight;
+extern float const TypographyProductDisplayLargeFontWeight;
+extern float const TypographyProductDisplayMediumFontWeight;
+extern float const TypographyProductDisplaySmallFontWeight;
+extern float const TypographyProductHeadingXlargeFontWeight;
+extern float const TypographyProductHeadingLargeFontWeight;
+extern float const TypographyProductHeadingMediumFontWeight;
+extern float const TypographyProductHeadingSmallFontWeight;
+extern float const TypographyProductHeadingXsmallFontWeight;
+extern float const TypographyProductLabelLargeFontWeight;
+extern float const TypographyProductLabelLargeUnderlineFontWeight;
+extern float const TypographyProductLabelMediumFontWeight;
+extern float const TypographyProductLabelMediumUnderlineFontWeight;
+extern float const TypographyProductLabelSmallFontWeight;
+extern float const TypographyProductLabelSmallUnderlineFontWeight;
+extern float const TypographyProductLabelXsmallFontWeight;
+extern float const TypographyProductLabelXsmallUnderlineFontWeight;
+extern float const TypographyProductParagraphLargeFontWeight;
+extern float const TypographyProductParagraphLargeUnderlineFontWeight;
+extern float const TypographyProductParagraphMediumFontWeight;
+extern float const TypographyProductParagraphMediumUnderlineFontWeight;
+extern float const TypographyProductParagraphSmallFontWeight;
+extern float const TypographyProductParagraphSmallUnderlineFontWeight;
+extern float const TypographyProductParagraphXsmallFontWeight;
+extern float const TypographyEditorialHeading1FontWeight;
+extern float const TypographyEditorialHeading2FontWeight;
+extern float const TypographyEditorialHeading3FontWeight;
+extern float const TypographyEditorialHeading4FontWeight;
+extern float const TypographyEditorialHeading5FontWeight;
+extern float const TypographyEditorialParagraphFontWeight;
+extern float const TypographyEditorialLabelMediumFontWeight;

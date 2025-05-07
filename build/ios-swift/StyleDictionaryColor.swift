@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 14 Nov 2024 09:10:12 GMT
+// Generated on Wed, 07 May 2025 07:12:15 GMT
 
 
 import UIKit
@@ -76,7 +76,7 @@ public enum StyleDictionaryColor {
     public static let contentTextPrimaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let contentTextPrimaryHover = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let contentTextPrimaryInverseEnable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let contentTextSecondaryEnable = UIColor(red: 0.506, green: 0.506, blue: 0.506, alpha: 1)
+    public static let contentTextSecondaryEnable = UIColor(red: 0.349, green: 0.349, blue: 0.349, alpha: 1)
     public static let coreBlue10 = UIColor(red: 0.875, green: 0.941, blue: 0.996, alpha: 1)
     public static let coreBlue20 = UIColor(red: 0.592, green: 0.800, blue: 0.984, alpha: 1)
     public static let coreBlue30 = UIColor(red: 0.435, green: 0.663, blue: 1.000, alpha: 1)
@@ -102,7 +102,7 @@ public enum StyleDictionaryColor {
     public static let coreGrey50 = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let coreGrey60 = UIColor(red: 0.624, green: 0.624, blue: 0.624, alpha: 1)
     public static let coreGrey70 = UIColor(red: 0.506, green: 0.506, blue: 0.506, alpha: 1)
-    public static let coreGrey80 = UIColor(red: 0.388, green: 0.388, blue: 0.388, alpha: 1)
+    public static let coreGrey80 = UIColor(red: 0.349, green: 0.349, blue: 0.349, alpha: 1)
     public static let coreGrey90 = UIColor(red: 0.153, green: 0.153, blue: 0.153, alpha: 1)
     public static let coreNeutral0 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let coreOpacity0 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 0)
@@ -179,7 +179,7 @@ public enum StyleDictionaryColor {
     public static let generalPromo01 = UIColor(red: 0.635, green: 0.173, blue: 0.173, alpha: 1)
     public static let generalSuccess01 = UIColor(red: 0.243, green: 0.584, blue: 0.439, alpha: 1)
     public static let generalText01 = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
-    public static let generalText02 = UIColor(red: 0.506, green: 0.506, blue: 0.506, alpha: 1)
+    public static let generalText02 = UIColor(red: 0.349, green: 0.349, blue: 0.349, alpha: 1)
     public static let generalText03 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let indicatorBackgroundPirmaryActive = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let indicatorBackgroundPrimaryDisable = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
@@ -222,7 +222,7 @@ public enum StyleDictionaryColor {
     public static let modaleStrokePrimaryEnable = UIColor(red: 0.937, green: 0.937, blue: 0.937, alpha: 1)
     public static let modaleStrokeSecondaryEnable = UIColor(red: 0.937, green: 0.937, blue: 0.937, alpha: 1)
     public static let modaleTextPrimaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
-    public static let modaleTextSecondaryEnable = UIColor(red: 0.506, green: 0.506, blue: 0.506, alpha: 1)
+    public static let modaleTextSecondaryEnable = UIColor(red: 0.349, green: 0.349, blue: 0.349, alpha: 1)
     public static let navigationBackgroundPrimaryActive = UIColor(red: 0.965, green: 0.961, blue: 0.953, alpha: 1)
     public static let navigationBackgroundPrimaryDisable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let navigationBackgroundPrimaryEnable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -241,7 +241,7 @@ public enum StyleDictionaryColor {
     public static let navigationTextPrimaryEnable = UIColor(red: 0.090, green: 0.090, blue: 0.090, alpha: 1)
     public static let navigationTextPrimaryHover = UIColor(red: 0.624, green: 0.624, blue: 0.624, alpha: 1)
     public static let navigationTextPrimaryInverseEnable = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let navigationTextSecondaryEnable = UIColor(red: 0.506, green: 0.506, blue: 0.506, alpha: 1)
+    public static let navigationTextSecondaryEnable = UIColor(red: 0.349, green: 0.349, blue: 0.349, alpha: 1)
     public static let navigationTextSecondaryHover = UIColor(red: 0.624, green: 0.624, blue: 0.624, alpha: 1)
     public static let premiumBronze = UIColor(red: 0.847, green: 0.624, blue: 0.322, alpha: 1)
     public static let premiumGold = UIColor(red: 0.933, green: 0.776, blue: 0.424, alpha: 1)
